@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "Scarlet",
+    "lastName": "Blundell",
+    "email": "scarlet.blundell@gamil.com",
+    "phoneNumber": "07 00 00 00 01",
+    "salary": 1000
+  },
+  {
+    "firstName": "Alphonso",
+    "lastName": "Hurlbert",
+    "email": "alphonso.hurlbert@gamil.com",
+    "phoneNumber": "07 00 00 00 02",
+    "salary": 1000
+  },
+  {
+    "firstName": "Alphonso",
+    "lastName": "Hurlbert",
+    "email": "alphonso.hurlbert@gamil.com",
+    "phoneNumber": "07 00 00 00 02",
+    "salary": 1000
+  }
+]
